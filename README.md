@@ -7,7 +7,7 @@
 
 # Usage
 #### Basic:
-Run this function as every player on join:  
+Run this function as every player that has just joined the game (every time):  
 `function effectstack:join`
 
 #### Apply Effect:
