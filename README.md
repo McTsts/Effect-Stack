@@ -26,6 +26,8 @@ Run this function as every player that has just joined the game (every time):
 If an effect is applied and an effect of the same ID with the same SID already exists, the old effect is overwritten with the new one. If you want to use this system but do not want to use SID, simply add `scoreboard players add sid effectstack 1` at the start of the `effectstack:effect` function and SID will effictively be ignored.
 
 # Notes
-This system will mess up effects if you give them via /effect and then give the same effect via this system
+This system will mess up effects if you give them via /effect and then give the same effect via this system  
+
+It probably is a good idea to delete any folders from `effectstack:apply/tree` that correspond to an effect that is not used. (they take quite a bit of space and can use too much ram)
 
 Credit is appreciated, but not required.
