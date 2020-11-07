@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 16 run effect give @s absorption 16 8 true
+execute if score #duration effectstack matches 17 run effect give @s absorption 17 8 true
+execute if score #duration effectstack matches 18 run effect give @s absorption 18 8 true
+execute if score #duration effectstack matches 19 run effect give @s absorption 19 8 true
+execute if score #duration effectstack matches 20 run effect give @s absorption 20 8 true
+execute if score #duration effectstack matches 21 run effect give @s absorption 21 8 true
+execute if score #duration effectstack matches 22 run effect give @s absorption 22 8 true
+execute if score #duration effectstack matches 23 run effect give @s absorption 23 8 true
+execute if score #duration effectstack matches 24 run effect give @s absorption 24 8 true
+execute if score #duration effectstack matches 25 run effect give @s absorption 25 8 true
+execute if score #duration effectstack matches 26 run effect give @s absorption 26 8 true
+execute if score #duration effectstack matches 27 run effect give @s absorption 27 8 true
+execute if score #duration effectstack matches 28 run effect give @s absorption 28 8 true
+execute if score #duration effectstack matches 29 run effect give @s absorption 29 8 true
+execute if score #duration effectstack matches 30 run effect give @s absorption 30 8 true
+execute if score #duration effectstack matches 31 run effect give @s absorption 31 8 true

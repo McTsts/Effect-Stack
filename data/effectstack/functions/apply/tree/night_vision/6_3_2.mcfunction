@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 224 run effect give @s night_vision 224 6 true
+execute if score #duration effectstack matches 225 run effect give @s night_vision 225 6 true
+execute if score #duration effectstack matches 226 run effect give @s night_vision 226 6 true
+execute if score #duration effectstack matches 227 run effect give @s night_vision 227 6 true
+execute if score #duration effectstack matches 228 run effect give @s night_vision 228 6 true
+execute if score #duration effectstack matches 229 run effect give @s night_vision 229 6 true
+execute if score #duration effectstack matches 230 run effect give @s night_vision 230 6 true
+execute if score #duration effectstack matches 231 run effect give @s night_vision 231 6 true
+execute if score #duration effectstack matches 232 run effect give @s night_vision 232 6 true
+execute if score #duration effectstack matches 233 run effect give @s night_vision 233 6 true
+execute if score #duration effectstack matches 234 run effect give @s night_vision 234 6 true
+execute if score #duration effectstack matches 235 run effect give @s night_vision 235 6 true
+execute if score #duration effectstack matches 236 run effect give @s night_vision 236 6 true
+execute if score #duration effectstack matches 237 run effect give @s night_vision 237 6 true
+execute if score #duration effectstack matches 238 run effect give @s night_vision 238 6 true
+execute if score #duration effectstack matches 239 run effect give @s night_vision 239 6 true

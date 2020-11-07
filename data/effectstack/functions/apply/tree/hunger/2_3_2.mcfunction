@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 224 run effect give @s hunger 224 2 true
+execute if score #duration effectstack matches 225 run effect give @s hunger 225 2 true
+execute if score #duration effectstack matches 226 run effect give @s hunger 226 2 true
+execute if score #duration effectstack matches 227 run effect give @s hunger 227 2 true
+execute if score #duration effectstack matches 228 run effect give @s hunger 228 2 true
+execute if score #duration effectstack matches 229 run effect give @s hunger 229 2 true
+execute if score #duration effectstack matches 230 run effect give @s hunger 230 2 true
+execute if score #duration effectstack matches 231 run effect give @s hunger 231 2 true
+execute if score #duration effectstack matches 232 run effect give @s hunger 232 2 true
+execute if score #duration effectstack matches 233 run effect give @s hunger 233 2 true
+execute if score #duration effectstack matches 234 run effect give @s hunger 234 2 true
+execute if score #duration effectstack matches 235 run effect give @s hunger 235 2 true
+execute if score #duration effectstack matches 236 run effect give @s hunger 236 2 true
+execute if score #duration effectstack matches 237 run effect give @s hunger 237 2 true
+execute if score #duration effectstack matches 238 run effect give @s hunger 238 2 true
+execute if score #duration effectstack matches 239 run effect give @s hunger 239 2 true

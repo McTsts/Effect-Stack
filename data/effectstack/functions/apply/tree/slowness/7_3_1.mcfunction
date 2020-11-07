@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 208 run effect give @s slowness 208 7 true
+execute if score #duration effectstack matches 209 run effect give @s slowness 209 7 true
+execute if score #duration effectstack matches 210 run effect give @s slowness 210 7 true
+execute if score #duration effectstack matches 211 run effect give @s slowness 211 7 true
+execute if score #duration effectstack matches 212 run effect give @s slowness 212 7 true
+execute if score #duration effectstack matches 213 run effect give @s slowness 213 7 true
+execute if score #duration effectstack matches 214 run effect give @s slowness 214 7 true
+execute if score #duration effectstack matches 215 run effect give @s slowness 215 7 true
+execute if score #duration effectstack matches 216 run effect give @s slowness 216 7 true
+execute if score #duration effectstack matches 217 run effect give @s slowness 217 7 true
+execute if score #duration effectstack matches 218 run effect give @s slowness 218 7 true
+execute if score #duration effectstack matches 219 run effect give @s slowness 219 7 true
+execute if score #duration effectstack matches 220 run effect give @s slowness 220 7 true
+execute if score #duration effectstack matches 221 run effect give @s slowness 221 7 true
+execute if score #duration effectstack matches 222 run effect give @s slowness 222 7 true
+execute if score #duration effectstack matches 223 run effect give @s slowness 223 7 true

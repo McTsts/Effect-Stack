@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 80 run effect give @s instant_health 80 2 true
+execute if score #duration effectstack matches 81 run effect give @s instant_health 81 2 true
+execute if score #duration effectstack matches 82 run effect give @s instant_health 82 2 true
+execute if score #duration effectstack matches 83 run effect give @s instant_health 83 2 true
+execute if score #duration effectstack matches 84 run effect give @s instant_health 84 2 true
+execute if score #duration effectstack matches 85 run effect give @s instant_health 85 2 true
+execute if score #duration effectstack matches 86 run effect give @s instant_health 86 2 true
+execute if score #duration effectstack matches 87 run effect give @s instant_health 87 2 true
+execute if score #duration effectstack matches 88 run effect give @s instant_health 88 2 true
+execute if score #duration effectstack matches 89 run effect give @s instant_health 89 2 true
+execute if score #duration effectstack matches 90 run effect give @s instant_health 90 2 true
+execute if score #duration effectstack matches 91 run effect give @s instant_health 91 2 true
+execute if score #duration effectstack matches 92 run effect give @s instant_health 92 2 true
+execute if score #duration effectstack matches 93 run effect give @s instant_health 93 2 true
+execute if score #duration effectstack matches 94 run effect give @s instant_health 94 2 true
+execute if score #duration effectstack matches 95 run effect give @s instant_health 95 2 true

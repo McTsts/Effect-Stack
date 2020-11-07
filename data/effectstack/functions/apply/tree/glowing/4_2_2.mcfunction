@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 160 run effect give @s glowing 160 4 true
+execute if score #duration effectstack matches 161 run effect give @s glowing 161 4 true
+execute if score #duration effectstack matches 162 run effect give @s glowing 162 4 true
+execute if score #duration effectstack matches 163 run effect give @s glowing 163 4 true
+execute if score #duration effectstack matches 164 run effect give @s glowing 164 4 true
+execute if score #duration effectstack matches 165 run effect give @s glowing 165 4 true
+execute if score #duration effectstack matches 166 run effect give @s glowing 166 4 true
+execute if score #duration effectstack matches 167 run effect give @s glowing 167 4 true
+execute if score #duration effectstack matches 168 run effect give @s glowing 168 4 true
+execute if score #duration effectstack matches 169 run effect give @s glowing 169 4 true
+execute if score #duration effectstack matches 170 run effect give @s glowing 170 4 true
+execute if score #duration effectstack matches 171 run effect give @s glowing 171 4 true
+execute if score #duration effectstack matches 172 run effect give @s glowing 172 4 true
+execute if score #duration effectstack matches 173 run effect give @s glowing 173 4 true
+execute if score #duration effectstack matches 174 run effect give @s glowing 174 4 true
+execute if score #duration effectstack matches 175 run effect give @s glowing 175 4 true

@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 224 run effect give @s jump_boost 224 2 true
+execute if score #duration effectstack matches 225 run effect give @s jump_boost 225 2 true
+execute if score #duration effectstack matches 226 run effect give @s jump_boost 226 2 true
+execute if score #duration effectstack matches 227 run effect give @s jump_boost 227 2 true
+execute if score #duration effectstack matches 228 run effect give @s jump_boost 228 2 true
+execute if score #duration effectstack matches 229 run effect give @s jump_boost 229 2 true
+execute if score #duration effectstack matches 230 run effect give @s jump_boost 230 2 true
+execute if score #duration effectstack matches 231 run effect give @s jump_boost 231 2 true
+execute if score #duration effectstack matches 232 run effect give @s jump_boost 232 2 true
+execute if score #duration effectstack matches 233 run effect give @s jump_boost 233 2 true
+execute if score #duration effectstack matches 234 run effect give @s jump_boost 234 2 true
+execute if score #duration effectstack matches 235 run effect give @s jump_boost 235 2 true
+execute if score #duration effectstack matches 236 run effect give @s jump_boost 236 2 true
+execute if score #duration effectstack matches 237 run effect give @s jump_boost 237 2 true
+execute if score #duration effectstack matches 238 run effect give @s jump_boost 238 2 true
+execute if score #duration effectstack matches 239 run effect give @s jump_boost 239 2 true

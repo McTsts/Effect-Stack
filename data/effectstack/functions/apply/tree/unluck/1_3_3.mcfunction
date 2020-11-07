@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 240 run effect give @s unluck 240 1 true
+execute if score #duration effectstack matches 241 run effect give @s unluck 241 1 true
+execute if score #duration effectstack matches 242 run effect give @s unluck 242 1 true
+execute if score #duration effectstack matches 243 run effect give @s unluck 243 1 true
+execute if score #duration effectstack matches 244 run effect give @s unluck 244 1 true
+execute if score #duration effectstack matches 245 run effect give @s unluck 245 1 true
+execute if score #duration effectstack matches 246 run effect give @s unluck 246 1 true
+execute if score #duration effectstack matches 247 run effect give @s unluck 247 1 true
+execute if score #duration effectstack matches 248 run effect give @s unluck 248 1 true
+execute if score #duration effectstack matches 249 run effect give @s unluck 249 1 true
+execute if score #duration effectstack matches 250 run effect give @s unluck 250 1 true
+execute if score #duration effectstack matches 251 run effect give @s unluck 251 1 true
+execute if score #duration effectstack matches 252 run effect give @s unluck 252 1 true
+execute if score #duration effectstack matches 253 run effect give @s unluck 253 1 true
+execute if score #duration effectstack matches 254 run effect give @s unluck 254 1 true
+execute if score #duration effectstack matches 255 run effect give @s unluck 255 1 true

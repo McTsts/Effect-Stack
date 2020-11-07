@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 208 run effect give @s slow_falling 208 3 true
+execute if score #duration effectstack matches 209 run effect give @s slow_falling 209 3 true
+execute if score #duration effectstack matches 210 run effect give @s slow_falling 210 3 true
+execute if score #duration effectstack matches 211 run effect give @s slow_falling 211 3 true
+execute if score #duration effectstack matches 212 run effect give @s slow_falling 212 3 true
+execute if score #duration effectstack matches 213 run effect give @s slow_falling 213 3 true
+execute if score #duration effectstack matches 214 run effect give @s slow_falling 214 3 true
+execute if score #duration effectstack matches 215 run effect give @s slow_falling 215 3 true
+execute if score #duration effectstack matches 216 run effect give @s slow_falling 216 3 true
+execute if score #duration effectstack matches 217 run effect give @s slow_falling 217 3 true
+execute if score #duration effectstack matches 218 run effect give @s slow_falling 218 3 true
+execute if score #duration effectstack matches 219 run effect give @s slow_falling 219 3 true
+execute if score #duration effectstack matches 220 run effect give @s slow_falling 220 3 true
+execute if score #duration effectstack matches 221 run effect give @s slow_falling 221 3 true
+execute if score #duration effectstack matches 222 run effect give @s slow_falling 222 3 true
+execute if score #duration effectstack matches 223 run effect give @s slow_falling 223 3 true

@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 80 run effect give @s luck 80 3 true
+execute if score #duration effectstack matches 81 run effect give @s luck 81 3 true
+execute if score #duration effectstack matches 82 run effect give @s luck 82 3 true
+execute if score #duration effectstack matches 83 run effect give @s luck 83 3 true
+execute if score #duration effectstack matches 84 run effect give @s luck 84 3 true
+execute if score #duration effectstack matches 85 run effect give @s luck 85 3 true
+execute if score #duration effectstack matches 86 run effect give @s luck 86 3 true
+execute if score #duration effectstack matches 87 run effect give @s luck 87 3 true
+execute if score #duration effectstack matches 88 run effect give @s luck 88 3 true
+execute if score #duration effectstack matches 89 run effect give @s luck 89 3 true
+execute if score #duration effectstack matches 90 run effect give @s luck 90 3 true
+execute if score #duration effectstack matches 91 run effect give @s luck 91 3 true
+execute if score #duration effectstack matches 92 run effect give @s luck 92 3 true
+execute if score #duration effectstack matches 93 run effect give @s luck 93 3 true
+execute if score #duration effectstack matches 94 run effect give @s luck 94 3 true
+execute if score #duration effectstack matches 95 run effect give @s luck 95 3 true

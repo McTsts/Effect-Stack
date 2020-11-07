@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 176 run effect give @s invisibility 176 1 true
+execute if score #duration effectstack matches 177 run effect give @s invisibility 177 1 true
+execute if score #duration effectstack matches 178 run effect give @s invisibility 178 1 true
+execute if score #duration effectstack matches 179 run effect give @s invisibility 179 1 true
+execute if score #duration effectstack matches 180 run effect give @s invisibility 180 1 true
+execute if score #duration effectstack matches 181 run effect give @s invisibility 181 1 true
+execute if score #duration effectstack matches 182 run effect give @s invisibility 182 1 true
+execute if score #duration effectstack matches 183 run effect give @s invisibility 183 1 true
+execute if score #duration effectstack matches 184 run effect give @s invisibility 184 1 true
+execute if score #duration effectstack matches 185 run effect give @s invisibility 185 1 true
+execute if score #duration effectstack matches 186 run effect give @s invisibility 186 1 true
+execute if score #duration effectstack matches 187 run effect give @s invisibility 187 1 true
+execute if score #duration effectstack matches 188 run effect give @s invisibility 188 1 true
+execute if score #duration effectstack matches 189 run effect give @s invisibility 189 1 true
+execute if score #duration effectstack matches 190 run effect give @s invisibility 190 1 true
+execute if score #duration effectstack matches 191 run effect give @s invisibility 191 1 true

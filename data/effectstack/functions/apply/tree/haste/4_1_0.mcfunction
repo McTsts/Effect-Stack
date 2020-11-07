@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 64 run effect give @s haste 64 4 true
+execute if score #duration effectstack matches 65 run effect give @s haste 65 4 true
+execute if score #duration effectstack matches 66 run effect give @s haste 66 4 true
+execute if score #duration effectstack matches 67 run effect give @s haste 67 4 true
+execute if score #duration effectstack matches 68 run effect give @s haste 68 4 true
+execute if score #duration effectstack matches 69 run effect give @s haste 69 4 true
+execute if score #duration effectstack matches 70 run effect give @s haste 70 4 true
+execute if score #duration effectstack matches 71 run effect give @s haste 71 4 true
+execute if score #duration effectstack matches 72 run effect give @s haste 72 4 true
+execute if score #duration effectstack matches 73 run effect give @s haste 73 4 true
+execute if score #duration effectstack matches 74 run effect give @s haste 74 4 true
+execute if score #duration effectstack matches 75 run effect give @s haste 75 4 true
+execute if score #duration effectstack matches 76 run effect give @s haste 76 4 true
+execute if score #duration effectstack matches 77 run effect give @s haste 77 4 true
+execute if score #duration effectstack matches 78 run effect give @s haste 78 4 true
+execute if score #duration effectstack matches 79 run effect give @s haste 79 4 true

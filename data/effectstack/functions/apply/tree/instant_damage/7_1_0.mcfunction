@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 64 run effect give @s instant_damage 64 7 true
+execute if score #duration effectstack matches 65 run effect give @s instant_damage 65 7 true
+execute if score #duration effectstack matches 66 run effect give @s instant_damage 66 7 true
+execute if score #duration effectstack matches 67 run effect give @s instant_damage 67 7 true
+execute if score #duration effectstack matches 68 run effect give @s instant_damage 68 7 true
+execute if score #duration effectstack matches 69 run effect give @s instant_damage 69 7 true
+execute if score #duration effectstack matches 70 run effect give @s instant_damage 70 7 true
+execute if score #duration effectstack matches 71 run effect give @s instant_damage 71 7 true
+execute if score #duration effectstack matches 72 run effect give @s instant_damage 72 7 true
+execute if score #duration effectstack matches 73 run effect give @s instant_damage 73 7 true
+execute if score #duration effectstack matches 74 run effect give @s instant_damage 74 7 true
+execute if score #duration effectstack matches 75 run effect give @s instant_damage 75 7 true
+execute if score #duration effectstack matches 76 run effect give @s instant_damage 76 7 true
+execute if score #duration effectstack matches 77 run effect give @s instant_damage 77 7 true
+execute if score #duration effectstack matches 78 run effect give @s instant_damage 78 7 true
+execute if score #duration effectstack matches 79 run effect give @s instant_damage 79 7 true

@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 224 run effect give @s blindness 224 0 true
+execute if score #duration effectstack matches 225 run effect give @s blindness 225 0 true
+execute if score #duration effectstack matches 226 run effect give @s blindness 226 0 true
+execute if score #duration effectstack matches 227 run effect give @s blindness 227 0 true
+execute if score #duration effectstack matches 228 run effect give @s blindness 228 0 true
+execute if score #duration effectstack matches 229 run effect give @s blindness 229 0 true
+execute if score #duration effectstack matches 230 run effect give @s blindness 230 0 true
+execute if score #duration effectstack matches 231 run effect give @s blindness 231 0 true
+execute if score #duration effectstack matches 232 run effect give @s blindness 232 0 true
+execute if score #duration effectstack matches 233 run effect give @s blindness 233 0 true
+execute if score #duration effectstack matches 234 run effect give @s blindness 234 0 true
+execute if score #duration effectstack matches 235 run effect give @s blindness 235 0 true
+execute if score #duration effectstack matches 236 run effect give @s blindness 236 0 true
+execute if score #duration effectstack matches 237 run effect give @s blindness 237 0 true
+execute if score #duration effectstack matches 238 run effect give @s blindness 238 0 true
+execute if score #duration effectstack matches 239 run effect give @s blindness 239 0 true

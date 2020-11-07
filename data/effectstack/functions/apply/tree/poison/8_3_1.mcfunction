@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 208 run effect give @s poison 208 8 true
+execute if score #duration effectstack matches 209 run effect give @s poison 209 8 true
+execute if score #duration effectstack matches 210 run effect give @s poison 210 8 true
+execute if score #duration effectstack matches 211 run effect give @s poison 211 8 true
+execute if score #duration effectstack matches 212 run effect give @s poison 212 8 true
+execute if score #duration effectstack matches 213 run effect give @s poison 213 8 true
+execute if score #duration effectstack matches 214 run effect give @s poison 214 8 true
+execute if score #duration effectstack matches 215 run effect give @s poison 215 8 true
+execute if score #duration effectstack matches 216 run effect give @s poison 216 8 true
+execute if score #duration effectstack matches 217 run effect give @s poison 217 8 true
+execute if score #duration effectstack matches 218 run effect give @s poison 218 8 true
+execute if score #duration effectstack matches 219 run effect give @s poison 219 8 true
+execute if score #duration effectstack matches 220 run effect give @s poison 220 8 true
+execute if score #duration effectstack matches 221 run effect give @s poison 221 8 true
+execute if score #duration effectstack matches 222 run effect give @s poison 222 8 true
+execute if score #duration effectstack matches 223 run effect give @s poison 223 8 true

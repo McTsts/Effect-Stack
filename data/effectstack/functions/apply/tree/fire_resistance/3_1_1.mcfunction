@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 80 run effect give @s fire_resistance 80 3 true
+execute if score #duration effectstack matches 81 run effect give @s fire_resistance 81 3 true
+execute if score #duration effectstack matches 82 run effect give @s fire_resistance 82 3 true
+execute if score #duration effectstack matches 83 run effect give @s fire_resistance 83 3 true
+execute if score #duration effectstack matches 84 run effect give @s fire_resistance 84 3 true
+execute if score #duration effectstack matches 85 run effect give @s fire_resistance 85 3 true
+execute if score #duration effectstack matches 86 run effect give @s fire_resistance 86 3 true
+execute if score #duration effectstack matches 87 run effect give @s fire_resistance 87 3 true
+execute if score #duration effectstack matches 88 run effect give @s fire_resistance 88 3 true
+execute if score #duration effectstack matches 89 run effect give @s fire_resistance 89 3 true
+execute if score #duration effectstack matches 90 run effect give @s fire_resistance 90 3 true
+execute if score #duration effectstack matches 91 run effect give @s fire_resistance 91 3 true
+execute if score #duration effectstack matches 92 run effect give @s fire_resistance 92 3 true
+execute if score #duration effectstack matches 93 run effect give @s fire_resistance 93 3 true
+execute if score #duration effectstack matches 94 run effect give @s fire_resistance 94 3 true
+execute if score #duration effectstack matches 95 run effect give @s fire_resistance 95 3 true

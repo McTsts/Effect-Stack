@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 144 run effect give @s instant_damage 144 0 true
+execute if score #duration effectstack matches 145 run effect give @s instant_damage 145 0 true
+execute if score #duration effectstack matches 146 run effect give @s instant_damage 146 0 true
+execute if score #duration effectstack matches 147 run effect give @s instant_damage 147 0 true
+execute if score #duration effectstack matches 148 run effect give @s instant_damage 148 0 true
+execute if score #duration effectstack matches 149 run effect give @s instant_damage 149 0 true
+execute if score #duration effectstack matches 150 run effect give @s instant_damage 150 0 true
+execute if score #duration effectstack matches 151 run effect give @s instant_damage 151 0 true
+execute if score #duration effectstack matches 152 run effect give @s instant_damage 152 0 true
+execute if score #duration effectstack matches 153 run effect give @s instant_damage 153 0 true
+execute if score #duration effectstack matches 154 run effect give @s instant_damage 154 0 true
+execute if score #duration effectstack matches 155 run effect give @s instant_damage 155 0 true
+execute if score #duration effectstack matches 156 run effect give @s instant_damage 156 0 true
+execute if score #duration effectstack matches 157 run effect give @s instant_damage 157 0 true
+execute if score #duration effectstack matches 158 run effect give @s instant_damage 158 0 true
+execute if score #duration effectstack matches 159 run effect give @s instant_damage 159 0 true

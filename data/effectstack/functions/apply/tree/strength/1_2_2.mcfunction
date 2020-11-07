@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 160 run effect give @s strength 160 1 true
+execute if score #duration effectstack matches 161 run effect give @s strength 161 1 true
+execute if score #duration effectstack matches 162 run effect give @s strength 162 1 true
+execute if score #duration effectstack matches 163 run effect give @s strength 163 1 true
+execute if score #duration effectstack matches 164 run effect give @s strength 164 1 true
+execute if score #duration effectstack matches 165 run effect give @s strength 165 1 true
+execute if score #duration effectstack matches 166 run effect give @s strength 166 1 true
+execute if score #duration effectstack matches 167 run effect give @s strength 167 1 true
+execute if score #duration effectstack matches 168 run effect give @s strength 168 1 true
+execute if score #duration effectstack matches 169 run effect give @s strength 169 1 true
+execute if score #duration effectstack matches 170 run effect give @s strength 170 1 true
+execute if score #duration effectstack matches 171 run effect give @s strength 171 1 true
+execute if score #duration effectstack matches 172 run effect give @s strength 172 1 true
+execute if score #duration effectstack matches 173 run effect give @s strength 173 1 true
+execute if score #duration effectstack matches 174 run effect give @s strength 174 1 true
+execute if score #duration effectstack matches 175 run effect give @s strength 175 1 true

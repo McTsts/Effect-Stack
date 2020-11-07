@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 224 run effect give @s bad_omen 224 6 true
+execute if score #duration effectstack matches 225 run effect give @s bad_omen 225 6 true
+execute if score #duration effectstack matches 226 run effect give @s bad_omen 226 6 true
+execute if score #duration effectstack matches 227 run effect give @s bad_omen 227 6 true
+execute if score #duration effectstack matches 228 run effect give @s bad_omen 228 6 true
+execute if score #duration effectstack matches 229 run effect give @s bad_omen 229 6 true
+execute if score #duration effectstack matches 230 run effect give @s bad_omen 230 6 true
+execute if score #duration effectstack matches 231 run effect give @s bad_omen 231 6 true
+execute if score #duration effectstack matches 232 run effect give @s bad_omen 232 6 true
+execute if score #duration effectstack matches 233 run effect give @s bad_omen 233 6 true
+execute if score #duration effectstack matches 234 run effect give @s bad_omen 234 6 true
+execute if score #duration effectstack matches 235 run effect give @s bad_omen 235 6 true
+execute if score #duration effectstack matches 236 run effect give @s bad_omen 236 6 true
+execute if score #duration effectstack matches 237 run effect give @s bad_omen 237 6 true
+execute if score #duration effectstack matches 238 run effect give @s bad_omen 238 6 true
+execute if score #duration effectstack matches 239 run effect give @s bad_omen 239 6 true

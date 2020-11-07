@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 144 run effect give @s levitation 144 5 true
+execute if score #duration effectstack matches 145 run effect give @s levitation 145 5 true
+execute if score #duration effectstack matches 146 run effect give @s levitation 146 5 true
+execute if score #duration effectstack matches 147 run effect give @s levitation 147 5 true
+execute if score #duration effectstack matches 148 run effect give @s levitation 148 5 true
+execute if score #duration effectstack matches 149 run effect give @s levitation 149 5 true
+execute if score #duration effectstack matches 150 run effect give @s levitation 150 5 true
+execute if score #duration effectstack matches 151 run effect give @s levitation 151 5 true
+execute if score #duration effectstack matches 152 run effect give @s levitation 152 5 true
+execute if score #duration effectstack matches 153 run effect give @s levitation 153 5 true
+execute if score #duration effectstack matches 154 run effect give @s levitation 154 5 true
+execute if score #duration effectstack matches 155 run effect give @s levitation 155 5 true
+execute if score #duration effectstack matches 156 run effect give @s levitation 156 5 true
+execute if score #duration effectstack matches 157 run effect give @s levitation 157 5 true
+execute if score #duration effectstack matches 158 run effect give @s levitation 158 5 true
+execute if score #duration effectstack matches 159 run effect give @s levitation 159 5 true

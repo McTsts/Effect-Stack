@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 96 run effect give @s blindness 96 5 true
+execute if score #duration effectstack matches 97 run effect give @s blindness 97 5 true
+execute if score #duration effectstack matches 98 run effect give @s blindness 98 5 true
+execute if score #duration effectstack matches 99 run effect give @s blindness 99 5 true
+execute if score #duration effectstack matches 100 run effect give @s blindness 100 5 true
+execute if score #duration effectstack matches 101 run effect give @s blindness 101 5 true
+execute if score #duration effectstack matches 102 run effect give @s blindness 102 5 true
+execute if score #duration effectstack matches 103 run effect give @s blindness 103 5 true
+execute if score #duration effectstack matches 104 run effect give @s blindness 104 5 true
+execute if score #duration effectstack matches 105 run effect give @s blindness 105 5 true
+execute if score #duration effectstack matches 106 run effect give @s blindness 106 5 true
+execute if score #duration effectstack matches 107 run effect give @s blindness 107 5 true
+execute if score #duration effectstack matches 108 run effect give @s blindness 108 5 true
+execute if score #duration effectstack matches 109 run effect give @s blindness 109 5 true
+execute if score #duration effectstack matches 110 run effect give @s blindness 110 5 true
+execute if score #duration effectstack matches 111 run effect give @s blindness 111 5 true

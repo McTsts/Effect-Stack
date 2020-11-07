@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 80 run effect give @s unluck 80 7 true
+execute if score #duration effectstack matches 81 run effect give @s unluck 81 7 true
+execute if score #duration effectstack matches 82 run effect give @s unluck 82 7 true
+execute if score #duration effectstack matches 83 run effect give @s unluck 83 7 true
+execute if score #duration effectstack matches 84 run effect give @s unluck 84 7 true
+execute if score #duration effectstack matches 85 run effect give @s unluck 85 7 true
+execute if score #duration effectstack matches 86 run effect give @s unluck 86 7 true
+execute if score #duration effectstack matches 87 run effect give @s unluck 87 7 true
+execute if score #duration effectstack matches 88 run effect give @s unluck 88 7 true
+execute if score #duration effectstack matches 89 run effect give @s unluck 89 7 true
+execute if score #duration effectstack matches 90 run effect give @s unluck 90 7 true
+execute if score #duration effectstack matches 91 run effect give @s unluck 91 7 true
+execute if score #duration effectstack matches 92 run effect give @s unluck 92 7 true
+execute if score #duration effectstack matches 93 run effect give @s unluck 93 7 true
+execute if score #duration effectstack matches 94 run effect give @s unluck 94 7 true
+execute if score #duration effectstack matches 95 run effect give @s unluck 95 7 true

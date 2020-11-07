@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 192 run effect give @s saturation 192 0 true
+execute if score #duration effectstack matches 193 run effect give @s saturation 193 0 true
+execute if score #duration effectstack matches 194 run effect give @s saturation 194 0 true
+execute if score #duration effectstack matches 195 run effect give @s saturation 195 0 true
+execute if score #duration effectstack matches 196 run effect give @s saturation 196 0 true
+execute if score #duration effectstack matches 197 run effect give @s saturation 197 0 true
+execute if score #duration effectstack matches 198 run effect give @s saturation 198 0 true
+execute if score #duration effectstack matches 199 run effect give @s saturation 199 0 true
+execute if score #duration effectstack matches 200 run effect give @s saturation 200 0 true
+execute if score #duration effectstack matches 201 run effect give @s saturation 201 0 true
+execute if score #duration effectstack matches 202 run effect give @s saturation 202 0 true
+execute if score #duration effectstack matches 203 run effect give @s saturation 203 0 true
+execute if score #duration effectstack matches 204 run effect give @s saturation 204 0 true
+execute if score #duration effectstack matches 205 run effect give @s saturation 205 0 true
+execute if score #duration effectstack matches 206 run effect give @s saturation 206 0 true
+execute if score #duration effectstack matches 207 run effect give @s saturation 207 0 true

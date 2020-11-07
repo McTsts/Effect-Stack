@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 48 run effect give @s hero_of_the_village 48 3 true
+execute if score #duration effectstack matches 49 run effect give @s hero_of_the_village 49 3 true
+execute if score #duration effectstack matches 50 run effect give @s hero_of_the_village 50 3 true
+execute if score #duration effectstack matches 51 run effect give @s hero_of_the_village 51 3 true
+execute if score #duration effectstack matches 52 run effect give @s hero_of_the_village 52 3 true
+execute if score #duration effectstack matches 53 run effect give @s hero_of_the_village 53 3 true
+execute if score #duration effectstack matches 54 run effect give @s hero_of_the_village 54 3 true
+execute if score #duration effectstack matches 55 run effect give @s hero_of_the_village 55 3 true
+execute if score #duration effectstack matches 56 run effect give @s hero_of_the_village 56 3 true
+execute if score #duration effectstack matches 57 run effect give @s hero_of_the_village 57 3 true
+execute if score #duration effectstack matches 58 run effect give @s hero_of_the_village 58 3 true
+execute if score #duration effectstack matches 59 run effect give @s hero_of_the_village 59 3 true
+execute if score #duration effectstack matches 60 run effect give @s hero_of_the_village 60 3 true
+execute if score #duration effectstack matches 61 run effect give @s hero_of_the_village 61 3 true
+execute if score #duration effectstack matches 62 run effect give @s hero_of_the_village 62 3 true
+execute if score #duration effectstack matches 63 run effect give @s hero_of_the_village 63 3 true

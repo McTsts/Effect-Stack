@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 176 run effect give @s hero_of_the_village 176 0 true
+execute if score #duration effectstack matches 177 run effect give @s hero_of_the_village 177 0 true
+execute if score #duration effectstack matches 178 run effect give @s hero_of_the_village 178 0 true
+execute if score #duration effectstack matches 179 run effect give @s hero_of_the_village 179 0 true
+execute if score #duration effectstack matches 180 run effect give @s hero_of_the_village 180 0 true
+execute if score #duration effectstack matches 181 run effect give @s hero_of_the_village 181 0 true
+execute if score #duration effectstack matches 182 run effect give @s hero_of_the_village 182 0 true
+execute if score #duration effectstack matches 183 run effect give @s hero_of_the_village 183 0 true
+execute if score #duration effectstack matches 184 run effect give @s hero_of_the_village 184 0 true
+execute if score #duration effectstack matches 185 run effect give @s hero_of_the_village 185 0 true
+execute if score #duration effectstack matches 186 run effect give @s hero_of_the_village 186 0 true
+execute if score #duration effectstack matches 187 run effect give @s hero_of_the_village 187 0 true
+execute if score #duration effectstack matches 188 run effect give @s hero_of_the_village 188 0 true
+execute if score #duration effectstack matches 189 run effect give @s hero_of_the_village 189 0 true
+execute if score #duration effectstack matches 190 run effect give @s hero_of_the_village 190 0 true
+execute if score #duration effectstack matches 191 run effect give @s hero_of_the_village 191 0 true

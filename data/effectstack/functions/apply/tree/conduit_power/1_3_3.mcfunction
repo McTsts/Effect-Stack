@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 240 run effect give @s conduit_power 240 1 true
+execute if score #duration effectstack matches 241 run effect give @s conduit_power 241 1 true
+execute if score #duration effectstack matches 242 run effect give @s conduit_power 242 1 true
+execute if score #duration effectstack matches 243 run effect give @s conduit_power 243 1 true
+execute if score #duration effectstack matches 244 run effect give @s conduit_power 244 1 true
+execute if score #duration effectstack matches 245 run effect give @s conduit_power 245 1 true
+execute if score #duration effectstack matches 246 run effect give @s conduit_power 246 1 true
+execute if score #duration effectstack matches 247 run effect give @s conduit_power 247 1 true
+execute if score #duration effectstack matches 248 run effect give @s conduit_power 248 1 true
+execute if score #duration effectstack matches 249 run effect give @s conduit_power 249 1 true
+execute if score #duration effectstack matches 250 run effect give @s conduit_power 250 1 true
+execute if score #duration effectstack matches 251 run effect give @s conduit_power 251 1 true
+execute if score #duration effectstack matches 252 run effect give @s conduit_power 252 1 true
+execute if score #duration effectstack matches 253 run effect give @s conduit_power 253 1 true
+execute if score #duration effectstack matches 254 run effect give @s conduit_power 254 1 true
+execute if score #duration effectstack matches 255 run effect give @s conduit_power 255 1 true

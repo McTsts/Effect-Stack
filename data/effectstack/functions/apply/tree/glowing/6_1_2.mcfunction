@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 96 run effect give @s glowing 96 6 true
+execute if score #duration effectstack matches 97 run effect give @s glowing 97 6 true
+execute if score #duration effectstack matches 98 run effect give @s glowing 98 6 true
+execute if score #duration effectstack matches 99 run effect give @s glowing 99 6 true
+execute if score #duration effectstack matches 100 run effect give @s glowing 100 6 true
+execute if score #duration effectstack matches 101 run effect give @s glowing 101 6 true
+execute if score #duration effectstack matches 102 run effect give @s glowing 102 6 true
+execute if score #duration effectstack matches 103 run effect give @s glowing 103 6 true
+execute if score #duration effectstack matches 104 run effect give @s glowing 104 6 true
+execute if score #duration effectstack matches 105 run effect give @s glowing 105 6 true
+execute if score #duration effectstack matches 106 run effect give @s glowing 106 6 true
+execute if score #duration effectstack matches 107 run effect give @s glowing 107 6 true
+execute if score #duration effectstack matches 108 run effect give @s glowing 108 6 true
+execute if score #duration effectstack matches 109 run effect give @s glowing 109 6 true
+execute if score #duration effectstack matches 110 run effect give @s glowing 110 6 true
+execute if score #duration effectstack matches 111 run effect give @s glowing 111 6 true

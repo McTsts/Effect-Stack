@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 96 run effect give @s nausea 96 5 true
+execute if score #duration effectstack matches 97 run effect give @s nausea 97 5 true
+execute if score #duration effectstack matches 98 run effect give @s nausea 98 5 true
+execute if score #duration effectstack matches 99 run effect give @s nausea 99 5 true
+execute if score #duration effectstack matches 100 run effect give @s nausea 100 5 true
+execute if score #duration effectstack matches 101 run effect give @s nausea 101 5 true
+execute if score #duration effectstack matches 102 run effect give @s nausea 102 5 true
+execute if score #duration effectstack matches 103 run effect give @s nausea 103 5 true
+execute if score #duration effectstack matches 104 run effect give @s nausea 104 5 true
+execute if score #duration effectstack matches 105 run effect give @s nausea 105 5 true
+execute if score #duration effectstack matches 106 run effect give @s nausea 106 5 true
+execute if score #duration effectstack matches 107 run effect give @s nausea 107 5 true
+execute if score #duration effectstack matches 108 run effect give @s nausea 108 5 true
+execute if score #duration effectstack matches 109 run effect give @s nausea 109 5 true
+execute if score #duration effectstack matches 110 run effect give @s nausea 110 5 true
+execute if score #duration effectstack matches 111 run effect give @s nausea 111 5 true

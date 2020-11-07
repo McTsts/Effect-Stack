@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 176 run effect give @s resistance 176 2 true
+execute if score #duration effectstack matches 177 run effect give @s resistance 177 2 true
+execute if score #duration effectstack matches 178 run effect give @s resistance 178 2 true
+execute if score #duration effectstack matches 179 run effect give @s resistance 179 2 true
+execute if score #duration effectstack matches 180 run effect give @s resistance 180 2 true
+execute if score #duration effectstack matches 181 run effect give @s resistance 181 2 true
+execute if score #duration effectstack matches 182 run effect give @s resistance 182 2 true
+execute if score #duration effectstack matches 183 run effect give @s resistance 183 2 true
+execute if score #duration effectstack matches 184 run effect give @s resistance 184 2 true
+execute if score #duration effectstack matches 185 run effect give @s resistance 185 2 true
+execute if score #duration effectstack matches 186 run effect give @s resistance 186 2 true
+execute if score #duration effectstack matches 187 run effect give @s resistance 187 2 true
+execute if score #duration effectstack matches 188 run effect give @s resistance 188 2 true
+execute if score #duration effectstack matches 189 run effect give @s resistance 189 2 true
+execute if score #duration effectstack matches 190 run effect give @s resistance 190 2 true
+execute if score #duration effectstack matches 191 run effect give @s resistance 191 2 true

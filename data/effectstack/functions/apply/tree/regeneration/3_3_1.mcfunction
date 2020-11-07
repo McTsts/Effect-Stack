@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 208 run effect give @s regeneration 208 3 true
+execute if score #duration effectstack matches 209 run effect give @s regeneration 209 3 true
+execute if score #duration effectstack matches 210 run effect give @s regeneration 210 3 true
+execute if score #duration effectstack matches 211 run effect give @s regeneration 211 3 true
+execute if score #duration effectstack matches 212 run effect give @s regeneration 212 3 true
+execute if score #duration effectstack matches 213 run effect give @s regeneration 213 3 true
+execute if score #duration effectstack matches 214 run effect give @s regeneration 214 3 true
+execute if score #duration effectstack matches 215 run effect give @s regeneration 215 3 true
+execute if score #duration effectstack matches 216 run effect give @s regeneration 216 3 true
+execute if score #duration effectstack matches 217 run effect give @s regeneration 217 3 true
+execute if score #duration effectstack matches 218 run effect give @s regeneration 218 3 true
+execute if score #duration effectstack matches 219 run effect give @s regeneration 219 3 true
+execute if score #duration effectstack matches 220 run effect give @s regeneration 220 3 true
+execute if score #duration effectstack matches 221 run effect give @s regeneration 221 3 true
+execute if score #duration effectstack matches 222 run effect give @s regeneration 222 3 true
+execute if score #duration effectstack matches 223 run effect give @s regeneration 223 3 true

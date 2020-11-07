@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 160 run effect give @s bad_omen 160 5 true
+execute if score #duration effectstack matches 161 run effect give @s bad_omen 161 5 true
+execute if score #duration effectstack matches 162 run effect give @s bad_omen 162 5 true
+execute if score #duration effectstack matches 163 run effect give @s bad_omen 163 5 true
+execute if score #duration effectstack matches 164 run effect give @s bad_omen 164 5 true
+execute if score #duration effectstack matches 165 run effect give @s bad_omen 165 5 true
+execute if score #duration effectstack matches 166 run effect give @s bad_omen 166 5 true
+execute if score #duration effectstack matches 167 run effect give @s bad_omen 167 5 true
+execute if score #duration effectstack matches 168 run effect give @s bad_omen 168 5 true
+execute if score #duration effectstack matches 169 run effect give @s bad_omen 169 5 true
+execute if score #duration effectstack matches 170 run effect give @s bad_omen 170 5 true
+execute if score #duration effectstack matches 171 run effect give @s bad_omen 171 5 true
+execute if score #duration effectstack matches 172 run effect give @s bad_omen 172 5 true
+execute if score #duration effectstack matches 173 run effect give @s bad_omen 173 5 true
+execute if score #duration effectstack matches 174 run effect give @s bad_omen 174 5 true
+execute if score #duration effectstack matches 175 run effect give @s bad_omen 175 5 true

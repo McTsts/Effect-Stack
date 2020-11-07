@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 208 run effect give @s health_boost 208 6 true
+execute if score #duration effectstack matches 209 run effect give @s health_boost 209 6 true
+execute if score #duration effectstack matches 210 run effect give @s health_boost 210 6 true
+execute if score #duration effectstack matches 211 run effect give @s health_boost 211 6 true
+execute if score #duration effectstack matches 212 run effect give @s health_boost 212 6 true
+execute if score #duration effectstack matches 213 run effect give @s health_boost 213 6 true
+execute if score #duration effectstack matches 214 run effect give @s health_boost 214 6 true
+execute if score #duration effectstack matches 215 run effect give @s health_boost 215 6 true
+execute if score #duration effectstack matches 216 run effect give @s health_boost 216 6 true
+execute if score #duration effectstack matches 217 run effect give @s health_boost 217 6 true
+execute if score #duration effectstack matches 218 run effect give @s health_boost 218 6 true
+execute if score #duration effectstack matches 219 run effect give @s health_boost 219 6 true
+execute if score #duration effectstack matches 220 run effect give @s health_boost 220 6 true
+execute if score #duration effectstack matches 221 run effect give @s health_boost 221 6 true
+execute if score #duration effectstack matches 222 run effect give @s health_boost 222 6 true
+execute if score #duration effectstack matches 223 run effect give @s health_boost 223 6 true

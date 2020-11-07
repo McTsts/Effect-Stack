@@ -1,0 +1,3 @@
+execute if score @s effectstackID matches 22 run data modify storage effectstack:main player set from storage effectstack:main players[21]
+execute if score @s effectstackID matches 23 run data modify storage effectstack:main player set from storage effectstack:main players[22]
+execute if score @s effectstackID matches 24 run data modify storage effectstack:main player set from storage effectstack:main players[23]

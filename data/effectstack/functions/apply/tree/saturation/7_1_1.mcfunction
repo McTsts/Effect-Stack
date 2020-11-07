@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 80 run effect give @s saturation 80 7 true
+execute if score #duration effectstack matches 81 run effect give @s saturation 81 7 true
+execute if score #duration effectstack matches 82 run effect give @s saturation 82 7 true
+execute if score #duration effectstack matches 83 run effect give @s saturation 83 7 true
+execute if score #duration effectstack matches 84 run effect give @s saturation 84 7 true
+execute if score #duration effectstack matches 85 run effect give @s saturation 85 7 true
+execute if score #duration effectstack matches 86 run effect give @s saturation 86 7 true
+execute if score #duration effectstack matches 87 run effect give @s saturation 87 7 true
+execute if score #duration effectstack matches 88 run effect give @s saturation 88 7 true
+execute if score #duration effectstack matches 89 run effect give @s saturation 89 7 true
+execute if score #duration effectstack matches 90 run effect give @s saturation 90 7 true
+execute if score #duration effectstack matches 91 run effect give @s saturation 91 7 true
+execute if score #duration effectstack matches 92 run effect give @s saturation 92 7 true
+execute if score #duration effectstack matches 93 run effect give @s saturation 93 7 true
+execute if score #duration effectstack matches 94 run effect give @s saturation 94 7 true
+execute if score #duration effectstack matches 95 run effect give @s saturation 95 7 true

@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 128 run effect give @s speed 128 8 true
+execute if score #duration effectstack matches 129 run effect give @s speed 129 8 true
+execute if score #duration effectstack matches 130 run effect give @s speed 130 8 true
+execute if score #duration effectstack matches 131 run effect give @s speed 131 8 true
+execute if score #duration effectstack matches 132 run effect give @s speed 132 8 true
+execute if score #duration effectstack matches 133 run effect give @s speed 133 8 true
+execute if score #duration effectstack matches 134 run effect give @s speed 134 8 true
+execute if score #duration effectstack matches 135 run effect give @s speed 135 8 true
+execute if score #duration effectstack matches 136 run effect give @s speed 136 8 true
+execute if score #duration effectstack matches 137 run effect give @s speed 137 8 true
+execute if score #duration effectstack matches 138 run effect give @s speed 138 8 true
+execute if score #duration effectstack matches 139 run effect give @s speed 139 8 true
+execute if score #duration effectstack matches 140 run effect give @s speed 140 8 true
+execute if score #duration effectstack matches 141 run effect give @s speed 141 8 true
+execute if score #duration effectstack matches 142 run effect give @s speed 142 8 true
+execute if score #duration effectstack matches 143 run effect give @s speed 143 8 true

@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 96 run effect give @s night_vision 96 7 true
+execute if score #duration effectstack matches 97 run effect give @s night_vision 97 7 true
+execute if score #duration effectstack matches 98 run effect give @s night_vision 98 7 true
+execute if score #duration effectstack matches 99 run effect give @s night_vision 99 7 true
+execute if score #duration effectstack matches 100 run effect give @s night_vision 100 7 true
+execute if score #duration effectstack matches 101 run effect give @s night_vision 101 7 true
+execute if score #duration effectstack matches 102 run effect give @s night_vision 102 7 true
+execute if score #duration effectstack matches 103 run effect give @s night_vision 103 7 true
+execute if score #duration effectstack matches 104 run effect give @s night_vision 104 7 true
+execute if score #duration effectstack matches 105 run effect give @s night_vision 105 7 true
+execute if score #duration effectstack matches 106 run effect give @s night_vision 106 7 true
+execute if score #duration effectstack matches 107 run effect give @s night_vision 107 7 true
+execute if score #duration effectstack matches 108 run effect give @s night_vision 108 7 true
+execute if score #duration effectstack matches 109 run effect give @s night_vision 109 7 true
+execute if score #duration effectstack matches 110 run effect give @s night_vision 110 7 true
+execute if score #duration effectstack matches 111 run effect give @s night_vision 111 7 true

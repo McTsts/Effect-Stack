@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 240 run effect give @s glowing 240 0 true
+execute if score #duration effectstack matches 241 run effect give @s glowing 241 0 true
+execute if score #duration effectstack matches 242 run effect give @s glowing 242 0 true
+execute if score #duration effectstack matches 243 run effect give @s glowing 243 0 true
+execute if score #duration effectstack matches 244 run effect give @s glowing 244 0 true
+execute if score #duration effectstack matches 245 run effect give @s glowing 245 0 true
+execute if score #duration effectstack matches 246 run effect give @s glowing 246 0 true
+execute if score #duration effectstack matches 247 run effect give @s glowing 247 0 true
+execute if score #duration effectstack matches 248 run effect give @s glowing 248 0 true
+execute if score #duration effectstack matches 249 run effect give @s glowing 249 0 true
+execute if score #duration effectstack matches 250 run effect give @s glowing 250 0 true
+execute if score #duration effectstack matches 251 run effect give @s glowing 251 0 true
+execute if score #duration effectstack matches 252 run effect give @s glowing 252 0 true
+execute if score #duration effectstack matches 253 run effect give @s glowing 253 0 true
+execute if score #duration effectstack matches 254 run effect give @s glowing 254 0 true
+execute if score #duration effectstack matches 255 run effect give @s glowing 255 0 true

@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 80 run effect give @s mining_fatigue 80 1 true
+execute if score #duration effectstack matches 81 run effect give @s mining_fatigue 81 1 true
+execute if score #duration effectstack matches 82 run effect give @s mining_fatigue 82 1 true
+execute if score #duration effectstack matches 83 run effect give @s mining_fatigue 83 1 true
+execute if score #duration effectstack matches 84 run effect give @s mining_fatigue 84 1 true
+execute if score #duration effectstack matches 85 run effect give @s mining_fatigue 85 1 true
+execute if score #duration effectstack matches 86 run effect give @s mining_fatigue 86 1 true
+execute if score #duration effectstack matches 87 run effect give @s mining_fatigue 87 1 true
+execute if score #duration effectstack matches 88 run effect give @s mining_fatigue 88 1 true
+execute if score #duration effectstack matches 89 run effect give @s mining_fatigue 89 1 true
+execute if score #duration effectstack matches 90 run effect give @s mining_fatigue 90 1 true
+execute if score #duration effectstack matches 91 run effect give @s mining_fatigue 91 1 true
+execute if score #duration effectstack matches 92 run effect give @s mining_fatigue 92 1 true
+execute if score #duration effectstack matches 93 run effect give @s mining_fatigue 93 1 true
+execute if score #duration effectstack matches 94 run effect give @s mining_fatigue 94 1 true
+execute if score #duration effectstack matches 95 run effect give @s mining_fatigue 95 1 true

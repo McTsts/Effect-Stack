@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 240 run effect give @s water_breathing 240 7 true
+execute if score #duration effectstack matches 241 run effect give @s water_breathing 241 7 true
+execute if score #duration effectstack matches 242 run effect give @s water_breathing 242 7 true
+execute if score #duration effectstack matches 243 run effect give @s water_breathing 243 7 true
+execute if score #duration effectstack matches 244 run effect give @s water_breathing 244 7 true
+execute if score #duration effectstack matches 245 run effect give @s water_breathing 245 7 true
+execute if score #duration effectstack matches 246 run effect give @s water_breathing 246 7 true
+execute if score #duration effectstack matches 247 run effect give @s water_breathing 247 7 true
+execute if score #duration effectstack matches 248 run effect give @s water_breathing 248 7 true
+execute if score #duration effectstack matches 249 run effect give @s water_breathing 249 7 true
+execute if score #duration effectstack matches 250 run effect give @s water_breathing 250 7 true
+execute if score #duration effectstack matches 251 run effect give @s water_breathing 251 7 true
+execute if score #duration effectstack matches 252 run effect give @s water_breathing 252 7 true
+execute if score #duration effectstack matches 253 run effect give @s water_breathing 253 7 true
+execute if score #duration effectstack matches 254 run effect give @s water_breathing 254 7 true
+execute if score #duration effectstack matches 255 run effect give @s water_breathing 255 7 true

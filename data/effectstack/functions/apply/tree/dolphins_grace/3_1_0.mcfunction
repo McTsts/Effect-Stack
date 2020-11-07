@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 64 run effect give @s dolphins_grace 64 3 true
+execute if score #duration effectstack matches 65 run effect give @s dolphins_grace 65 3 true
+execute if score #duration effectstack matches 66 run effect give @s dolphins_grace 66 3 true
+execute if score #duration effectstack matches 67 run effect give @s dolphins_grace 67 3 true
+execute if score #duration effectstack matches 68 run effect give @s dolphins_grace 68 3 true
+execute if score #duration effectstack matches 69 run effect give @s dolphins_grace 69 3 true
+execute if score #duration effectstack matches 70 run effect give @s dolphins_grace 70 3 true
+execute if score #duration effectstack matches 71 run effect give @s dolphins_grace 71 3 true
+execute if score #duration effectstack matches 72 run effect give @s dolphins_grace 72 3 true
+execute if score #duration effectstack matches 73 run effect give @s dolphins_grace 73 3 true
+execute if score #duration effectstack matches 74 run effect give @s dolphins_grace 74 3 true
+execute if score #duration effectstack matches 75 run effect give @s dolphins_grace 75 3 true
+execute if score #duration effectstack matches 76 run effect give @s dolphins_grace 76 3 true
+execute if score #duration effectstack matches 77 run effect give @s dolphins_grace 77 3 true
+execute if score #duration effectstack matches 78 run effect give @s dolphins_grace 78 3 true
+execute if score #duration effectstack matches 79 run effect give @s dolphins_grace 79 3 true

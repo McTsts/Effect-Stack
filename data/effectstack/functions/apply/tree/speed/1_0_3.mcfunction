@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 48 run effect give @s speed 48 1 true
+execute if score #duration effectstack matches 49 run effect give @s speed 49 1 true
+execute if score #duration effectstack matches 50 run effect give @s speed 50 1 true
+execute if score #duration effectstack matches 51 run effect give @s speed 51 1 true
+execute if score #duration effectstack matches 52 run effect give @s speed 52 1 true
+execute if score #duration effectstack matches 53 run effect give @s speed 53 1 true
+execute if score #duration effectstack matches 54 run effect give @s speed 54 1 true
+execute if score #duration effectstack matches 55 run effect give @s speed 55 1 true
+execute if score #duration effectstack matches 56 run effect give @s speed 56 1 true
+execute if score #duration effectstack matches 57 run effect give @s speed 57 1 true
+execute if score #duration effectstack matches 58 run effect give @s speed 58 1 true
+execute if score #duration effectstack matches 59 run effect give @s speed 59 1 true
+execute if score #duration effectstack matches 60 run effect give @s speed 60 1 true
+execute if score #duration effectstack matches 61 run effect give @s speed 61 1 true
+execute if score #duration effectstack matches 62 run effect give @s speed 62 1 true
+execute if score #duration effectstack matches 63 run effect give @s speed 63 1 true

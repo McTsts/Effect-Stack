@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 240 run effect give @s dolphins_grace 240 2 true
+execute if score #duration effectstack matches 241 run effect give @s dolphins_grace 241 2 true
+execute if score #duration effectstack matches 242 run effect give @s dolphins_grace 242 2 true
+execute if score #duration effectstack matches 243 run effect give @s dolphins_grace 243 2 true
+execute if score #duration effectstack matches 244 run effect give @s dolphins_grace 244 2 true
+execute if score #duration effectstack matches 245 run effect give @s dolphins_grace 245 2 true
+execute if score #duration effectstack matches 246 run effect give @s dolphins_grace 246 2 true
+execute if score #duration effectstack matches 247 run effect give @s dolphins_grace 247 2 true
+execute if score #duration effectstack matches 248 run effect give @s dolphins_grace 248 2 true
+execute if score #duration effectstack matches 249 run effect give @s dolphins_grace 249 2 true
+execute if score #duration effectstack matches 250 run effect give @s dolphins_grace 250 2 true
+execute if score #duration effectstack matches 251 run effect give @s dolphins_grace 251 2 true
+execute if score #duration effectstack matches 252 run effect give @s dolphins_grace 252 2 true
+execute if score #duration effectstack matches 253 run effect give @s dolphins_grace 253 2 true
+execute if score #duration effectstack matches 254 run effect give @s dolphins_grace 254 2 true
+execute if score #duration effectstack matches 255 run effect give @s dolphins_grace 255 2 true

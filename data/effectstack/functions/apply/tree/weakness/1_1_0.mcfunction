@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 64 run effect give @s weakness 64 1 true
+execute if score #duration effectstack matches 65 run effect give @s weakness 65 1 true
+execute if score #duration effectstack matches 66 run effect give @s weakness 66 1 true
+execute if score #duration effectstack matches 67 run effect give @s weakness 67 1 true
+execute if score #duration effectstack matches 68 run effect give @s weakness 68 1 true
+execute if score #duration effectstack matches 69 run effect give @s weakness 69 1 true
+execute if score #duration effectstack matches 70 run effect give @s weakness 70 1 true
+execute if score #duration effectstack matches 71 run effect give @s weakness 71 1 true
+execute if score #duration effectstack matches 72 run effect give @s weakness 72 1 true
+execute if score #duration effectstack matches 73 run effect give @s weakness 73 1 true
+execute if score #duration effectstack matches 74 run effect give @s weakness 74 1 true
+execute if score #duration effectstack matches 75 run effect give @s weakness 75 1 true
+execute if score #duration effectstack matches 76 run effect give @s weakness 76 1 true
+execute if score #duration effectstack matches 77 run effect give @s weakness 77 1 true
+execute if score #duration effectstack matches 78 run effect give @s weakness 78 1 true
+execute if score #duration effectstack matches 79 run effect give @s weakness 79 1 true

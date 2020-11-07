@@ -1,0 +1,16 @@
+execute if score #duration effectstack matches 192 run effect give @s wither 192 6 true
+execute if score #duration effectstack matches 193 run effect give @s wither 193 6 true
+execute if score #duration effectstack matches 194 run effect give @s wither 194 6 true
+execute if score #duration effectstack matches 195 run effect give @s wither 195 6 true
+execute if score #duration effectstack matches 196 run effect give @s wither 196 6 true
+execute if score #duration effectstack matches 197 run effect give @s wither 197 6 true
+execute if score #duration effectstack matches 198 run effect give @s wither 198 6 true
+execute if score #duration effectstack matches 199 run effect give @s wither 199 6 true
+execute if score #duration effectstack matches 200 run effect give @s wither 200 6 true
+execute if score #duration effectstack matches 201 run effect give @s wither 201 6 true
+execute if score #duration effectstack matches 202 run effect give @s wither 202 6 true
+execute if score #duration effectstack matches 203 run effect give @s wither 203 6 true
+execute if score #duration effectstack matches 204 run effect give @s wither 204 6 true
+execute if score #duration effectstack matches 205 run effect give @s wither 205 6 true
+execute if score #duration effectstack matches 206 run effect give @s wither 206 6 true
+execute if score #duration effectstack matches 207 run effect give @s wither 207 6 true
