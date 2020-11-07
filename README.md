@@ -17,13 +17,16 @@ Run this function as every player on join:
 `scoreboard players set duration effectstack 100`
 3. Set amplifier to the amplifier of the effect (starts at 0)  
 `scoreboard players set amplifier effectstack 0`
-4. Set sid to a "source id", effects with matching source id and id as an already applied one are ignored  
+4. Set sid to a "source id"
 `scoreboard players set sid effectstack 0`
 5. Run v as the player(s) you want to give the effect to:  
 `function effectstack:effect`
 
 #### Clear Effect:
 Give an effect with duration 0
+
+#### Source ID:
+If an effect is applied and an effect of the same ID with the same SID already exists, the old effect is overwritten with the new one. If you want to use this system but do not want to use SID, simply add `scoreboard players add sid effectstack 1` at the start of the `effectstack:effect` function and SID will effictively be ignored.
 
 # Notes
 This system will mess up effects if you give them via /effect and then give the same effect via this system
