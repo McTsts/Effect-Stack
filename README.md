@@ -22,9 +22,6 @@ Run this function as every player that has just joined the game (every time):
 5. Run v as the player(s) you want to give the effect to:  
 `function effectstack:effect`
 
-#### Clear Effect:
-Give an effect with duration 0
-
 #### Source ID:
 If an effect is applied and an effect of the same ID with the same SID already exists, the old effect is overwritten with the new one. If you want to use this system but do not want to use SID, simply add `scoreboard players add sid effectstack 1` at the start of the `effectstack:effect` function and SID will effictively be ignored.
 
