@@ -2,8 +2,9 @@
  A system that stacks amplifiers of effects, while keeping durations separate.
 
 # Usage
- Basic:
- Run this function as every player on join: /function effectstack:join
+#### Basic:
+Run this function as every player on join:  
+`function effectstack:join`
 
 #### Apply Effect:
 1. Set "id" to the numeric effect id (supports from speed (1) to hero of the village (32), possible future effects are not supported)  
