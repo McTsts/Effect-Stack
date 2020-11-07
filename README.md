@@ -1,5 +1,9 @@
 # Effect-Stack
  A system that stacks amplifiers of effects, while keeping durations separate.
+ 
+#### Example:  
+ Speed I 60s + Speed II 30s  
+ => Speed III 30s, followed by Speed I 30s
 
 # Usage
 #### Basic:
